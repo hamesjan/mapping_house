@@ -1,0 +1,8 @@
+Activate venv
+$ source env/bin/activate
+
+Install Package
+$ python -m pip install <package-name>
+
+Deactivate
+$ deactivate
